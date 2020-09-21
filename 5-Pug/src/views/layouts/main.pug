@@ -1,0 +1,9 @@
+html
+    head
+        title #{pageTitle} | #{siteName}
+    body
+        include ../partials/header
+        main
+            block content
+            //- block에 이제 다른pug파일의 내용이 들어간다.
+        include ../partials/footer
