@@ -10,3 +10,5 @@ Practice NodeJs
 [5-Pug](https://liptq.sse.codesandbox.io/)
 
 [11~12-Controller](https://r3c6b.sse.codesandbox.io/)
+
+[16-Input](https://hrdv4.sse.codesandbox.io/)
